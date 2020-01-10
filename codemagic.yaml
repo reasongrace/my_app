@@ -1,6 +1,6 @@
 workflows:
   my-workflow-1:
-    name: My workflow name
+    name: My workflow name 1
     environment:
       vars:
         PUBLIC_ENV_VAR: value here
@@ -24,7 +24,7 @@ workflows:
         recipients:
           - name@example.com
   my-workflow-1:
-    name: My workflow name
+    name: My workflow name 2
     environment:
       vars:
         PUBLIC_ENV_VAR: value here

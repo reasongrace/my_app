@@ -23,7 +23,7 @@ workflows:
       email:
         recipients:
           - name@example.com
-  my-workflow-1:
+  my-workflow-2:
     name: My workflow name 2
     environment:
       vars:

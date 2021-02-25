@@ -1,4 +1,4 @@
-package com.example.my_app
+package io.nevercode.my_app
 
 import androidx.annotation.NonNull;
 import io.flutter.embedding.android.FlutterActivity
